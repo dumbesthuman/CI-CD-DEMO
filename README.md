@@ -21,3 +21,10 @@ It automatically runs tests on every code push and simulates deployment.
 ---
 
 ## 📂 Project Structure
+CI-CD-DEMO
+├── add.py
+├── test_add.py
+├── .github
+│ └── workflows
+│ └── cicd.yml
+└── README.md
