@@ -1,4 +1,4 @@
-from addd import add
+from add import add
 
 def test_add():
     assert add(5, 5) == 11
